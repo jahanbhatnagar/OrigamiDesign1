@@ -1,0 +1,41 @@
+body{
+  background-image: url("https://4.bp.blogspot.com/-rnCyslP9xUI/XAfx995Tc1I/AAAAAAAABo0/VmCR79yE3RMRSKZ4KoDeGZC91eTiO43mwCLcBGAs/s1600/Untitled-1.jpg");
+}
+h1{
+    color:crimson;
+}
+*{
+    border:inset;
+    border-color: red
+}
+.heading{
+    display: flex;
+    justify-content: center
+}
+.PF1image{
+    
+    display: flex;
+    justify-content:flex-end;
+    
+}
+.fect1{
+    display: flex;
+    justify-content: center   
+}
+.fect2{
+    display: flex;
+    justify-content: center   
+}
+.whj{
+  background-color: palevioletred;
+}
+.fect3{
+    display: flex;
+    justify-content: center   
+}
+.PF3image{
+    
+    display: flex;
+    justify-content:flex-end;
+    
+}
